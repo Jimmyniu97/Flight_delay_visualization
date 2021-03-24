@@ -1,0 +1,337 @@
+,code,Total_delay,count,name,city
+0,ABE,2180.85,4168,Lehigh Valley International Airport,Allentown
+1,ABI,840.25,2022,Abilene Regional Airport,Abilene
+2,ABQ,8859.216666666667,24047,Albuquerque International Airport,Albuquerque
+3,ABR,330.55,745,Aberdeen Regional Airport,Aberdeen
+4,ABY,670.7166666666667,1018,Southwest Georgia Regional Airport,Albany
+5,ACK,868.9833333333333,972,Nantucket Memorial Airport,Nantucket
+6,ACT,526.2333333333333,1593,Waco Regional Airport,Waco
+7,ACV,919.5666666666667,1478,Arcata Airport,Mckinleyville
+8,ACY,1343.4666666666667,3288,Atlantic City International Airport,Egg Harbor City
+9,ADK,52.13333333333333,104,Adak Airport,Adak
+10,ADQ,132.3,636,Kodiak Airport,Kodiak
+11,AEX,1499.4833333333333,3403,Alexandria International Airport,Alexandria
+12,AGS,2294.016666666667,4544,Bush Field Airport,Augusta
+13,AKN,15.816666666666666,63,King Salmon Airport,King Salmon
+14,ALB,4774.633333333333,12360,Albany International Airport,Latham
+15,ALO,274.03333333333336,677,Waterloo Municipal Airport,Waterloo
+16,AMA,2006.5166666666667,5366,Amarillo International Airport,Amarillo
+17,ANC,3488.266666666667,18411,Anchorage International Airport,Anchorage
+18,APN,332.28333333333336,622,Alpena County Regional Airport,Alpena
+19,ART,23.683333333333334,25,Watertown International Airport,Dexter
+20,ASE,4511.8,6854,Aspen Pitkin County Airport-Sardy Field,Aspen
+21,ATL,142527.28333333333,390046,Hartsfield-Jackson Atlanta International Airport,Atlanta
+22,ATW,1818.8833333333334,4188,Outagamie County Airport,Appleton
+23,AUS,25015.75,63262,Austin-Bergstrom International Airport,Austin
+24,AVL,4144.4,7694,Asheville Regional Airport,Fletcher
+25,AVP,1605.3333333333333,3356,Wilkes Barre Scranton International Airport,Pittston
+26,AZA,1958.8,5251,Phoenix-Mesa Gateway Airport,Phoenix
+27,AZO,1126.7333333333333,2805,Kalamazoo-Battle Creek International Airport,Kalamazoo
+28,BDL,10727.833333333334,28316,Bradley International Airport,Windsor Locks
+29,BET,146.73333333333332,837,Bethel Airport,Bethel
+30,BFF,187.21666666666667,573,William B Heilig Field Airport,Scottsbluff
+31,BFL,922.1,2324,Kern County-Meadows Field Airport,Bakersfield
+32,BGM,523.2,920,Greater Binghamton Edwin A Link Field Airport,Johnson City
+33,BGR,2156.3,4090,Bangor International Airport,Bangor
+34,BHM,7787.5,18297,Birmingham International Airport,Birmingham
+35,BIL,1372.0833333333333,4152,Logan International Airport,Billings
+36,BIS,1692.1666666666667,3667,Bismarck Municipal Airport,Bismarck
+37,BJI,291.15,740,Bemidji-Beltrami County Airport,Bemidji
+39,BLI,593.05,2225,Bellingham International Airport,Bellingham
+41,BMI,1793.85,3173,Bloomington Normal Airport,Bloomington
+42,BNA,31786.716666666667,74263,Nashville International Airport,Nashville
+43,BOI,6360.266666666666,19191,Boise Air Terminal,Boise
+44,BOS,73704.86666666667,148191,Gen E L Logan International Airport,Boston
+45,BPT,325.8666666666667,851,Jefferson County Airport,Beaumont
+46,BQK,302.1166666666667,1038,Glynco Jetport Airport,Brunswick
+47,BQN,1179.8333333333333,1960,Rafael Hernandez Airport,Aguadilla
+48,BRD,269.18333333333334,637,Brainerd-Crow Wing County Regional Airport,Brainerd
+49,BRO,1062.95,2607,Brownsville-South Padre Island International Air,Brownsville
+50,BRW,103.95,727,Wiley Post Will Rogers Memorial Airport,Barrow
+51,BTM,177.35,677,Bert Mooney Airport,Butte
+52,BTR,4044.8333333333335,7576,Baton Rouge Metropolitan Airport,Baton Rouge
+53,BTV,5119.6,9727,Burlington International Airport,South Burlington
+54,BUF,11555.566666666668,26248,Greater Buffalo International Airport,Buffalo
+55,BUR,10208.25,26583,Burbank Glendale Pasadena Airport,Burbank
+56,BWI,44353.3,106739,Baltimore-Washington International Thurgood Mars,Baltimore
+57,BZN,2637.6,5841,Gallatin Field Airport,Bozeman
+58,CAE,2651.733333333333,6817,Columbia Metropolitan Airport,West Columbia
+59,CAK,4512.083333333333,7510,Akron Canton Regional Airport,Canton
+60,CDC,151.16666666666666,622,Cedar City Municipal Airport,Cedar City
+61,CDV,144.28333333333333,722,Merle K Mudhole Smith Airport,Cordova
+62,CGI,320.9166666666667,625,Cape Girardeau Municipal Airport,Scott City
+63,CHA,4475.066666666667,8511,Chattanooga Metropolitan Airport,Chattanooga
+64,CHO,3226.5333333333333,5574,Charlottesville Albemarle Airport,Earlysville
+66,CID,4136.133333333333,9232,Cedar Rapids Municipal Airport,Cedar Rapids
+67,CIU,326.71666666666664,673,Chippewa County International Airport,Kincheloe
+68,CKB,637.3333333333334,807,Benedum Airport,Clarksburg
+69,CLE,20163.366666666665,48385,Hopkins International Airport,Cleveland
+70,CLL,1262.6666666666667,2312,Easterwood Field Airport,College Station
+71,CLT,99448.26666666666,233317,Douglas International Airport,Charlotte
+72,CMH,19926.683333333334,45805,Port Columbus International Airport,Columbus
+73,CMI,890.05,2368,University of Illinois-Willard Airport,Savoy
+74,CMX,704.65,725,Houghton County Memorial Airport,Hancock
+75,CNY,156.83333333333334,420,Canyonlands Field Airport,Thompson
+76,COD,388.7,822,Yellowstone Regional Airport,Cody/Yellowstone
+77,COS,5851.616666666667,10338,City of Colorado Springs Municipal Airport,Colorado Springs
+78,COU,1266.1333333333334,2225,Columbia Regional Airport,Columbia
+79,CPR,254.86666666666667,985,Natrona County International Airport,Casper
+80,CRP,2047.6166666666666,5562,Corpus Christi International Airport,Corpus Christi
+81,CRW,2506.4,4632,Yeager Airport,Charleston
+82,CSG,700.8333333333334,1277,Columbus Metropolitan Airport,Columbus
+83,CVG,22251.533333333333,49594,Greater Cincinnati International Airport,Hebron
+84,CWA,1095.7,2853,Central Wisconsin Airport,Mosinee
+85,CYS,28.233333333333334,58,Cheyenne Airport,Cheyenne
+86,DAB,1384.2166666666667,3548,Daytona Beach International Airport,Daytona Beach
+87,DAL,33582.63333333333,70995,Dallas Love Field Airport,Dallas
+88,DAY,7279.45,14076,James M Cox Dayton International Airport,Dayton
+89,DBQ,381.78333333333336,1009,Dubuque Regional Airport,Dubuque
+90,DCA,59061.21666666667,132517,Washington National Airport,Arlington
+91,DEN,99316.51666666666,235989,Denver International Airport,Denver
+92,DFW,135236.6,279298,Fort Worth International Airport,Dallas
+93,DHN,770.6333333333333,1374,Dothan Airport,Dothan
+94,DLG,20.1,84,Dillingham Municipal Airport,Dillingham
+95,DLH,1476.1666666666667,2798,Duluth International Airport,Duluth
+96,DRO,1474.05,3125,Durango la Plata County Airport,Durango
+97,DRT,39.21666666666667,114,Del Rio International Airport,Del Rio
+98,DSM,6484.966666666666,15576,Des Moines International Airport,Des Moines
+99,DTW,58979.683333333334,157518,Detroit Metropolitan Wayne County Airport,Detroit
+100,DVL,391.75,626,Devils Lake Municipal Airport,Devils Lake
+101,EAR,32.61666666666667,200,Kearney Municipal Airport,Kearney
+102,EAU,448.4166666666667,720,Eau Claire County Airport,Eau Claire
+104,EGE,1838.0166666666667,2154,Eagle County Regional Airport,Gypsum
+105,EKO,138.81666666666666,647,Elko Municipal Airport-J C Harris Field,Elko
+106,ELM,208.43333333333334,333,Elmira Corning Regional Airport,Horseheads
+107,ELP,7036.283333333334,16982,El Paso International Airport,El Paso
+108,ERI,535.95,1015,Erie International Airport,Erie
+109,ESC,305.03333333333336,625,Delta County Airport,Escanaba
+110,EUG,2076.85,4103,Mahlon Sweet Field Airport,Eugene
+111,EVV,2174.1,4618,Evansville Regional Airport,Evansville
+112,EWN,910.4666666666667,2187,Craven County Regional Airport,New Bern
+113,EWR,83790.33333333333,143875,Newark International Airport,Newark
+114,EYW,1872.8333333333333,4756,Key West International Airport,Key West
+115,FAI,843.6166666666667,4456,Fairbanks International Airport,Fairbanks
+116,FAR,2617.15,5752,Hector International Airport,Fargo
+117,FAT,5468.5,11124,Fresno Yosemite International Airport,Fresno
+118,FAY,1924.2166666666667,3898,Fayetteville Regional Airport,Fayetteville
+119,FCA,923.1,2377,Glacier Park International Airport,Kalispell
+120,FLG,385.53333333333336,1190,Flagstaff Pulliam Airport,Flagstaff
+121,FLL,48047.46666666667,97513,Fort Lauderdale Hollywood International Airport,Dania Beach
+122,FLO,76.65,170,Florence Regional Airport,Florence
+123,FNT,1898.4666666666667,4160,Bishop International Airport,Flint
+124,FSD,3591.7166666666667,6359,Sioux Falls Regional Airport,Sioux Falls
+125,FSM,995.0833333333334,2051,Smith Field Airport,Fort Smith
+126,FWA,3834.75,7081,Fort Wayne Municipal Airport-Baer Field,Fort Wayne
+127,GCC,335.35,833,Gillette Campbell County Airport,Gillette
+128,GCK,264.4,731,Garden City Regional Airport,Pierceville
+129,GEG,3567.85,12348,Spokane International Airport,Spokane
+130,GFK,764.1833333333333,2106,Grand Forks Mark Andrews International Airport,Grand Forks
+131,GGG,268.96666666666664,803,Gregg County Airport,Longview
+132,GJT,977.1666666666666,3750,Walker Field Airport,Grand Junction
+133,GNV,2088.8333333333335,4492,Gainesville Regional Airport,Gainesville
+134,GPT,1677.65,4230,Gulfport Biloxi Regional Airport,Gulfport
+135,GRB,2014.2333333333333,4846,Austin Straubel International Airport,Green Bay
+138,GRR,7848.75,17340,Gerald R. Ford International Airport,Grand Rapids
+139,GSO,6087.033333333334,12974,Triad International Airport,Greensboro
+140,GSP,6075.633333333333,13624,Greenville Spartanburg International Airport,Greer
+141,GST,14.75,84,Gustavus Airport,Gustavus
+142,GTF,682.4166666666666,1856,Great Falls International Airport,Great Falls
+143,GTR,372.55,1021,Golden Triangle Regional Airport,Columbus
+144,GUC,123.86666666666666,230,Gunnison County Airport,Gunnison
+145,GUM,217.01666666666668,623,Antonio B Won Pat International Airport,Hagåtña
+146,HDN,562.8166666666667,930,Yampa Valley Airport,Hayden
+148,HHH,171.41666666666666,535,Hilton Head Airport,Hilton Head Island
+149,HIB,176.6,625,Chisholm Hibbing Airport,Hibbing
+150,HLN,417.48333333333335,1811,Helena Regional Airport,Helena
+151,HNL,9270.533333333333,49241,Honolulu International Airport,Honolulu
+152,HOB,213.7,677,Lea County Regional Airport,Hobbs
+153,HOU,24814.116666666665,57841,William P Hobby Airport,Houston
+154,HPN,6289.05,9875,Westchester County Airport,Purchase
+155,HRL,1457.5333333333333,3443,Grande Valley International Airport,Harlingen
+156,HSV,3278.6833333333334,8619,Huntsville International Airport,Huntsville
+157,HTS,560.5833333333334,879,Tri State Walker Long Field Airport,Huntington
+158,HVN,521.7333333333333,1031,Tweed New Haven Airport,East Haven
+159,HYA,101.35,89,Barnstable Boardman Polando Airport,Hyannis
+160,HYS,707.1,1078,Hays Municipal Airport,Hays
+161,IAD,31792.116666666665,68700,Dulles International Airport,Washington
+163,IAH,66446.3,173806,George Bush Intercontinental Airport,Houston
+164,ICT,4400.95,10538,Wichita Mid-Continent Airport,Wichita
+165,IDA,779.7833333333333,2167,Fanning Field Airport,Idaho Falls
+166,IFP,10.033333333333333,45,Laughlin-Bullhead International Airport,Bullhead City
+167,ILM,2477.6833333333334,6585,Wilmington International Airport,Wilmington
+168,IMT,292.1333333333333,652,Ford Airport,Kingsford
+169,IND,20671.716666666667,48932,Indianapolis International Airport,Indianapolis
+170,INL,239.96666666666667,650,Falls International Airport,International Falls
+171,ISN,675.85,1378,Sloulin Field International Airport,Williston
+172,ISP,3156.233333333333,6151,Long Island Macarthur Airport,Ronkonkoma
+173,ITH,626.0333333333333,985,Tompkins County Airport,Ithaca
+174,ITO,763.4833333333333,6230,Hilo International Airport,Hilo
+175,JAC,2216.6833333333334,4206,Jackson Hole Airport,Jackson
+176,JAN,3413.233333333333,7746,Jackson International Airport,Pearl
+177,JAX,13814.366666666667,31340,Jacksonville International Airport,Jacksonville
+178,JFK,61594.55,129684,John F Kennedy International Airport,Jamaica
+179,JLN,473.73333333333335,805,Joplin Regional Airport,Webb City
+180,JMS,663.1166666666667,989,Jamestown Municipal Airport,Jamestown
+181,JNU,887.7333333333333,4407,Juneau International Airport,Juneau
+182,KOA,2892.95,15018,Kailua-Kona International Airport,Kailua Kona
+183,KTN,597.6833333333333,2430,Ketchikan International Airport,Ketchikan
+184,LAN,1492.2,3513,Lansing Capital City Airport,Lansing
+185,LAR,328.8,625,General Brees Field,Laramie
+186,LAS,63845.51666666667,161113,Mccarran International Airport,Las Vegas
+187,LAW,612.0833333333334,1342,Lawton Municipal Airport,Lawton
+188,LAX,78251.36666666667,221486,Los Angeles International Airport,Los Angeles
+189,LBB,2597.3,6373,Lubbock International Airport,Lubbock
+190,LBE,418.6333333333333,1090,Westmoreland County Airport,Latrobe
+191,LBF,107.7,569,Lee Bird Field Airport,North Platte
+192,LBL,254.63333333333333,561,Liberal Municipal Airport,Liberal
+193,LCH,738.7666666666667,1940,Lake Charles Regional Airport,Lake Charles
+194,LCK,861.15,1084,Rickenbacker International Airport,Columbus
+195,LEX,4531.816666666667,10097,Blue Grass Field,Lexington
+196,LFT,1924.25,4560,Lafayette Regional Airport,Lafayette
+197,LGA,85833.03333333334,171093,LaGuardia Airport,Flushing
+198,LGB,5834.8,16796,Long Beach Daugherty Field Airport,Long Beach
+199,LIH,3178.483333333333,14207,Lihue Airport,Lihue
+200,LIT,4559.783333333334,13232,Adams Field Airport,Little Rock
+201,LNK,914.3,1780,Lincoln Municipal Airport,Lincoln
+202,LRD,1205.7333333333333,2442,Laredo International Airport,Laredo
+203,LSE,968.45,2139,La Crosse Municipal Airport,La Crosse
+204,LWB,570.75,576,Greenbrier Valley Airport,Lewisburg
+205,LWS,110.68333333333334,717,Lewiston Nez Perce County Airport,Lewiston
+206,LYH,629.65,1066,Lynchburg Regional Airport,Lynchburg
+207,MAF,3707.4,8768,Midland International Airport,Midland
+208,MBS,1462.0333333333333,2845,MBS International Airport,Freeland
+209,MCI,18570.816666666666,56195,Kansas City International Airport,Kansas City
+210,MCO,70778.2,138296,Orlando International Airport,Orlando
+211,MDT,3012.95,6304,Harrisburg International Airport,Middletown
+212,MDW,41191.083333333336,87095,Chicago Midway International Airport,Chicago
+213,MEI,909.5833333333334,1093,Key Field Airport,Meridian
+214,MEM,9225.15,23038,Memphis International Airport,Memphis
+215,MFE,2380.95,4610,Miller International Airport,Mcallen
+216,MFR,2867.0833333333335,4711,Rogue Valley International-Medford Airport,Central Point
+217,MGM,1972.55,4120,Montgomery Regional Airport,Montgomery
+218,MHK,861.6333333333333,1834,Manhattan Municipal Airport,Manhattan
+219,MHT,3046.2166666666667,9726,Manchester-Boston Regional Airport,Manchester
+220,MIA,40559.88333333333,87880,Miami International Airport,Miami
+221,MKE,13101.433333333332,32507,General Mitchell International Airport,Milwaukee
+222,MKG,326.8833333333333,720,Muskegon County Airport,Muskegon
+223,MLB,728.15,2453,Melbourne International Airport,Melbourne
+224,MLI,2449.2,5048,Quad City Airport,Coal Valley
+225,MLU,1564.7333333333333,3082,Monroe Regional Airport,Monroe
+227,MOB,3094.0,6566,Mobile Regional Airport,Mobile
+228,MOT,1204.9,2560,Minot International Airport,Minot
+229,MQT,950.6166666666667,1352,Sawyer International Airport,Marquette
+230,MRY,2120.05,3911,Monterey Peninsula Airport,Monterey
+231,MSN,5587.333333333333,13183,Dane County Regional Airport-Truax Field,Madison
+232,MSO,1298.3166666666666,3430,Missoula International Airport,Missoula
+233,MSP,55273.86666666667,159375,Minneapolis St Paul International Airport,St. Paul
+234,MSY,23320.083333333332,55883,New Orleans International Airport,Kenner
+235,MTJ,756.4,1494,Montrose Regional Airport,Montrose
+236,MVY,368.26666666666665,492,Marthas Vineyard Airport,Vineyard Haven
+238,OAJ,1473.1166666666666,3110,Albert J Ellis Airport,Richlands
+239,OAK,17131.483333333334,52676,Oakland International Airport,Oakland
+241,OGG,5904.433333333333,25418,Kahului Airport,Kahului
+242,OGS,75.21666666666667,137,Ogdensburg International Airport,Ogdensburg
+243,OKC,8911.65,23268,Will Rogers World Airport,Oklahoma City
+244,OMA,9464.15,25020,Eppley Airfield,Omaha
+245,OME,108.28333333333333,721,Nome Airport,Nome
+246,ONT,7065.516666666666,21279,Ontario International Airport,Ontario
+247,ORD,171662.91666666666,332953,Chicago O'Hare International Airport,Chicago
+248,ORF,11622.916666666666,22785,Norfolk International Airport,Norfolk
+249,ORH,802.65,964,Worcester Municipal Airport,Worcester
+250,OTH,394.4,371,North Bend Municipal Airport,North Bend
+251,OTZ,140.51666666666668,722,Ralph Wien Memorial Airport,Kotzebue
+253,PAH,360.01666666666665,719,Barkley Regional Airport,West Paducah
+255,PBI,13680.75,25083,Palm Beach International Airport,West Palm Beach
+256,PDX,16930.683333333334,63079,Portland International Airport,Portland
+258,PGV,598.2833333333333,896,Pitt Greenville Airport,Greenville
+259,PHF,1355.9333333333334,2669,Newport News-Williamsburg International Airport,Newport News
+260,PHL,55109.63333333333,116946,Philadelphia International Airport,Philadelphia
+261,PHX,63118.333333333336,173962,Sky Harbor International Airport,Phoenix
+262,PIA,2741.45,5348,Greater Peoria Regional Airport,Peoria
+263,PIB,454.3333333333333,729,Pine Belt Regional Airport,Moselle
+264,PIE,3213.4666666666667,7487,St. Petersburg-Clearwater International Airport,Clearwater
+265,PIH,230.71666666666667,1262,Pocatello Municipal Airport,Pocatello
+266,PIT,19065.75,49113,Pittsburgh International Airport,Coraopolis
+267,PLN,565.3333333333334,1027,Pellston Regional Airport,Pellston
+268,PNS,4042.116666666667,11386,Pensacola Regional Airport,Pensacola
+269,PPG,208.2,122,Pago Pago International Airport,Pago Pago
+270,PRC,125.7,236,Ernest A Love Field Airport,Prescott
+271,PSC,1143.5666666666666,2886,Tri Cities Airport,Pasco
+272,PSE,371.15,792,Mercedita Airport,Coto Laurel
+273,PSG,132.45,724,Petersburg James A Johnson Airport,Petersburg
+275,PSP,4329.666666666667,10619,Palm Springs International Airport,Palm Springs
+276,PUB,520.9166666666666,902,Pueblo Memorial Airport,Pueblo
+277,PVD,7305.083333333333,18733,Theodore Francis Green State Airport,Warwick
+279,PWM,6261.2,12137,Jetport International Airport,Portland
+280,RAP,2096.4333333333334,4247,Rapid City Regional Airport,Rapid City
+281,RDD,799.8333333333334,1169,Redding Municipal Airport,Redding
+282,RDM,2106.0833333333335,3773,Roberts Field Airport,Redmond
+283,RDU,31399.333333333332,60724,Durham International Airport,Raleigh/Durham
+284,RFD,369.75,673,Greater Rockford Airport,Rockford
+285,RHI,347.55,724,Rhinelander-Oneida County Airport,Rhinelander
+286,RIC,12119.45,23224,Richmond International Airport,Richmond
+287,RKS,289.9166666666667,680,Rock Springs-Sweetwater County Airport,Rock Springs
+288,RNO,7177.433333333333,18112,Reno-Tahoe International Airport,Reno
+289,ROA,1515.3666666666666,2463,Roanoke Regional Airport-Woodrum Field,Roanoke
+290,ROC,6509.383333333333,14388,Greater Rochester International Airport,Rochester
+291,ROW,667.95,1371,Roswell Industrial Air Center,Roswell
+292,RST,1788.8333333333333,3257,Rochester International Airport,Rochester
+293,RSW,14474.283333333333,32351,Southwest Florida International Airport,Fort Myers
+295,SAN,32167.166666666668,90699,San Diego International Airport,San Diego
+296,SAT,14873.1,39575,San Antonio International Airport,San Antonio
+297,SAV,7793.216666666666,15825,Savannah International Airport,Savannah
+298,SBA,3486.8333333333335,7084,Santa Barbara Municipal Airport,Goleta
+299,SBN,3775.8333333333335,6943,South Bend Regional Airport,South Bend
+300,SBP,2638.9333333333334,4840,San Luis Obispo County Airport,San Luis Obispo
+301,SCC,149.03333333333333,935,Deadhorse Airport,Prudhoe Bay
+302,SCE,718.95,1355,University Park Airport,State College
+303,SCK,627.1166666666667,747,Stockton Metropolitan Airport,Stockton
+304,SDF,10562.933333333332,22904,Louisville International Airport,Louisville
+305,SEA,43331.53333333333,140006,Tacoma International Airport,Seattle
+306,SFB,4415.7,9581,Orlando Sanford International Airport,Sanford
+307,SFO,81347.78333333334,175849,San Francisco International Airport,San Francisco
+308,SGF,4371.633333333333,8619,Springfield Regional Airport,Springfield
+309,SGU,766.1166666666667,3247,St George Municipal Airport,St. George
+310,SHD,472.18333333333334,662,Shenandoah Valley Regional Airport,Weyers Cave
+311,SHV,2894.5833333333335,6694,Shreveport Regional Airport,Shreveport
+312,SIT,278.2,1341,Sitka Airport,Sitka
+313,SJC,18104.833333333332,54625,Norman Y Mineta San Jose International Airport,San Jose
+314,SJT,483.9166666666667,1433,Mathis Field Airport,San Angelo
+315,SJU,12188.316666666668,24544,Luis Munoz Marin Airport,Carolina
+316,SLC,33954.4,113054,Salt Lake City International Airport,Salt Lake City
+317,SLN,638.25,685,Salina Municipal Airport,Salina
+318,SMF,13807.066666666668,47110,Sacramento International Airport,Sacramento
+319,SMX,96.06666666666666,170,Santa Maria Public Airport,Santa Maria
+320,SNA,13387.633333333333,41639,John Wayne Airport,Santa Ana
+321,SPI,1021.5166666666667,1811,Capital Airport,Springfield
+322,SPN,107.36666666666666,257,Saipan International Airport,Saipan
+324,SRQ,2662.0333333333333,6341,Sarasota Bradenton Airport,Sarasota
+325,STC,89.61666666666666,145,St Cloud Regional Airport,St. Cloud
+326,STL,26677.483333333334,66197,Lambert St Louis International Airport,St. Louis
+327,STS,885.1666666666666,1504,Sonoma County Airport,Windsor
+328,STT,1064.6833333333334,2533,Cyril E King International Airport,Charlotte Amalie
+329,STX,491.98333333333335,1125,Henry E Rohlson International Airport,Frederiksted
+330,SUN,561.9166666666666,1274,Friedman Memorial Airport,Hailey
+331,SUX,637.8833333333333,1189,Sioux Gateway Airport,Sioux City
+332,SWF,1453.9,1791,Stewart International Airport,New Windsor
+334,SYR,6741.3,13818,Hancock International Airport,Syracuse
+335,TLH,2211.4333333333334,6122,Tallahassee Regional Airport,Tallahassee
+336,TOL,951.8,2080,Toledo Express Airport,Swanton
+337,TPA,32686.75,74526,Tampa International Airport,Tampa
+338,TRI,1493.6166666666666,3062,Tri-Cities Regional Airport,Blountville
+340,TUL,6431.05,16925,Tulsa International Airport,Tulsa
+341,TUS,6096.233333333334,18223,Tucson International Airport,Tucson
+342,TVC,1958.8833333333334,3925,Cherry Capital Airport,Traverse City
+343,TWF,307.9166666666667,1271,Twin Falls-Sun Valley Regional Airport,Twin Falls
+344,TXK,462.56666666666666,1227,Texarkana Regional Airport,Texarkana
+345,TYR,528.3166666666667,1442,Tyler Pounds Field Airport,Tyler
+346,TYS,7937.4,15976,Mcghee Tyson Airport,Knoxville
+347,UIN,625.0,937,Quincy Municipal Airport-Baldwin Field,Quincy
+349,VEL,115.43333333333334,320,Vernal Airport,Vernal
+350,VLD,400.96666666666664,1039,Valdosta Regional Airport,Valdosta
+351,VPS,2935.133333333333,7830,Eglin Air Force Base,Eglin Village
+353,WYS,35.53333333333333,239,Yellowstone Airport,West Yellowstone
+354,XNA,6180.75,12571,Northwest Arkansas Regional Airport,Bentonville
+355,YAK,123.21666666666667,722,Yakutat Airport,Yakutat
+356,YNG,4.6,2,Youngstown-Warren Regional Airport,Vienna
+357,YUM,233.88333333333333,1376,Yuma International Airport,Yuma
